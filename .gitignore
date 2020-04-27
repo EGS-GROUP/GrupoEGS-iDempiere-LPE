@@ -1,0 +1,6 @@
+#Ignora la carpeta de clases compiladas.
+/bin
+#Ignora cualquier archivo compilado.
+*.class
+#Ignora la carpeta propio de sistema operativo.
+.directory
